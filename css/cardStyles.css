@@ -1,0 +1,33 @@
+article {
+  border: 3px double maroon;
+  border-radius: 3%;
+  box-shadow: 10px 10px 20px #999;
+  margin-left: 15%;
+  margin-top: 1.5rem;
+  padding: .5rem 1rem;
+  width: 20rem;
+}
+
+.article01 {
+  background-color: #00bbaa;
+}
+
+.article02 {
+  background-color: #bb88aa;
+}
+
+.specialText {
+  color: red;
+  font-variant: small-caps;
+  font-size: large;
+}
+
+a {
+  color: #444;
+}
+
+img {
+  display: block;
+  margin: auto;
+  width: 80%;
+}
